@@ -48,10 +48,17 @@ i{
     line-height: 35px;
 }
 
+.first_bottom {
+    line-height: 35px;
+
+    position:absolute;
+    bottom:30px; 
+}
+
 .button{
     position:absolute;
-    bottom:0;
-    right:0; 
+    bottom:30px; 
+    right:30px;
 
     background-color:black; 
     border: none;
